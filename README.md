@@ -1,5 +1,6 @@
 # 2022CUMCM_A
-使用4阶Runge-Kutta方法解析波浪能装置原理 
+使用4阶Runge-Kutta方法解析波浪能装置原理  
+关于龙格-库塔，你需要知道：https://baike.baidu.com/item/%E9%BE%99%E6%A0%BC%E5%BA%93%E5%A1%94%E6%B3%95/3016350  
 #
 此说明并不涉及对波浪能装置的力学分析，仅仅是利用matlab中ode45()的方法，提供4阶Runge-Kutta方法解高阶微分方程组的思路 
 ## 一阶微分方程 
